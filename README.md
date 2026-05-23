@@ -31,7 +31,14 @@ This project is a web-based information system for a shoe laundry service called
 - Browser Web: Chrome / Edge / Safari  
 - Framework: React.js and Node.js  
 - DBMS: MySQL  
-- Web Server: Apache HTTP Server
+- Web Server: Apache HTTP Server  
+
+---
+
+## Design Tools
+- BPMN, Use Case, Activity, Sequence, Class Diagram: Draw.io 
+- CDM, PDM: PowerDesigner  
+- UI/UX Design: Figma
 
 ---
 
